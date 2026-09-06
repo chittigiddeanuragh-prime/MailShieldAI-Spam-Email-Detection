@@ -1,0 +1,61 @@
+From notification@security-bank.com Sun Sep 06 10:00:00 2026
+From: "Security Alert" <notification@security-bank.com>
+Subject: URGENT: Your bank account has been suspended!
+Date: Sun, 06 Sep 2026 10:00:00 +0000
+Message-ID: <msg001@security-bank.com>
+
+Dear Valued Customer,
+We detected unusual login attempts on your bank account. Your access has been temporarily suspended!
+Please click the link below immediately to verify your identity and restore access:
+http://secure-update-bank-verification.com/login
+
+Failure to verify within 24 hours will result in permanent account locking.
+
+From alex.dev@techcorp.io Sun Sep 06 10:15:00 2026
+From: "Alex Rivera" <alex.dev@techcorp.io>
+Subject: Sprint Planning & Architecture Review Notes
+Date: Sun, 06 Sep 2026 10:15:00 +0000
+Message-ID: <msg002@techcorp.io>
+
+Hi Team,
+
+Thanks everyone for attending the architecture review session today.
+Here is the summary of action items:
+1. Complete API endpoint testing for FastAPI service.
+2. Review pull request #104 for the MailShield threat detector module.
+3. Deploy updated Streamlit dashboard.
+
+Let me know if you have any questions!
+
+Best regards,
+Alex
+
+From claim@international-lottery.org Sun Sep 06 11:30:00 2026
+From: "Lottery Committee" <claim@international-lottery.org>
+Subject: Congratulations! You have won $1,000,000 cash prize!
+Date: Sun, 06 Sep 2026 11:30:00 +0000
+Message-ID: <msg003@international-lottery.org>
+
+CONGRATULATIONS!
+Your email address was selected in the official International Email Lottery Draw 2026!
+You have won an unclaimed cash prize of $1,000,000 USD!
+
+To claim your prize, reply with your full name, phone number, and bank account details immediately to claim@international-lottery.org.
+
+Act fast! Unclaimed funds will be forfeited in 48 hours.
+
+From finance@company.com Sun Sep 06 12:00:00 2026
+From: "Finance Dept" <finance@company.com>
+Subject: Monthly Software Subscription Invoice #49281
+Date: Sun, 06 Sep 2026 12:00:00 +0000
+Message-ID: <msg004@company.com>
+
+Hello,
+
+Please find attached the monthly invoice for our software licenses.
+Payment terms: Net 30 days.
+
+Thank you for your business.
+
+Best regards,
+Finance Department
